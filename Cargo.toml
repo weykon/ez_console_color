@@ -1,0 +1,11 @@
+[package]
+name = "ez_console_color"
+version = "0.1.0"
+edition = "2021"
+description = "console color"
+repository = "https://github.com/weykon/ez_console_color"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
